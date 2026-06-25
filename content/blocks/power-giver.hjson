@@ -1,5 +1,6 @@
 type: PowerSource
 
+"name": "전력 공급기"
 category: power
 buildVisibility: shown
 alwaysUnlocked: true
