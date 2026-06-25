@@ -1,5 +1,6 @@
 type: ItemVoid
 
+"name": "자원 소멸기"
 category: distribution
 buildVisibility: shown
 alwaysUnlocked: true
