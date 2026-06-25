@@ -1,5 +1,6 @@
 type: PowerVoid
 
+"name": "방전장치"
 category: power
 buildVisibility: shown
 alwaysUnlocked: true
