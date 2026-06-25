@@ -1,5 +1,6 @@
 type: LiquidSource
 
+"name": "액체 공급기"
 category: liquid
 buildVisibility: shown
 alwaysUnlocked: true
