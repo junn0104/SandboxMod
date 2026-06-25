@@ -1,4 +1,6 @@
 type: LiquidVoid
+
+"name": "액체 소멸기"
 category: liquid
 buildVisibility: shown
 alwaysUnlocked: true
