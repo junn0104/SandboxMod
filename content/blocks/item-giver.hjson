@@ -1,5 +1,6 @@
 type: ItemSource
 
+"name": "자원 공급기"
 category: distribution
 buildVisibility: shown
 alwaysUnlocked: true
