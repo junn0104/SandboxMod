@@ -1,5 +1,6 @@
 type: LaunchPad
 
+"name": "자원 출격기"
 "launchTime": 0.0
 category: effect
 buildVisibility: shown
